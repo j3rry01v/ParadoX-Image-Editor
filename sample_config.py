@@ -1,4 +1,4 @@
-# By @TroJanzHEX
+# By ParadoX Bit
 
 
 import os
